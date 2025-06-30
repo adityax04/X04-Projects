@@ -12,8 +12,8 @@ SERVICES = {
 
 WEATHER_API_KEY = "paste your api key"
 LOCATIONS = {
-    "Ranchi (834001)": "834001",
-    "Neori (835217)": "835217"
+    "Place Name": "Area Pin Code",
+    "Place Name": "Area Pin Code"
 }
 LOG_FILE = "uptime_log.json"
 
