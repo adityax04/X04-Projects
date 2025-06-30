@@ -10,7 +10,7 @@ SERVICES = {
     "Vault": "vault.adityax04.online"
 }
 
-WEATHER_API_KEY = "paste your api keyG"
+WEATHER_API_KEY = "paste your api key"
 LOCATIONS = {
     "Ranchi (834001)": "834001",
     "Neori (835217)": "835217"
