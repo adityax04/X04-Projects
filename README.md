@@ -20,9 +20,13 @@ A sleek, responsive, real-time AI dashboard built with **Flask** and **TailwindC
 
 ### 1. Clone the Repository
 
-```bash
+bash
 git clone https://github.com/yourusername/raspberry-pi-ai-dashboard.git
 cd raspberry-pi-ai-dashboard
 
 #Install Python Dependencies
 pip install flask psutil requests
+
+#For run on local machine
+$ python ai.py
+
