@@ -6,6 +6,9 @@ A multi-user file manager built with Flask. Secure login, per-user folders, uplo
 🧠 Built with: Flask, TailwindCSS  
 ✅ Login required  
 🚀 Live: At local machine
+⚠️ You can separate the HTML, Css and Script
 
 
 See the Code once there All Comments mentions
+
+
